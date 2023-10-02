@@ -1,0 +1,47 @@
+.top-container{
+    background-color:cornsilk;
+    margin:0;
+    padding: 0;
+  }
+  .pic{
+    align-items: center;
+  }
+  .container{
+    background-color: white;
+  }
+  .text{
+    color: #ff4c68;
+  }
+  .pic{
+    border-radius: 200%;
+    background-color:white;
+  }
+  h6{
+    float: right;
+    position: relative;
+    left:150px;
+    bottom: 250px;
+  }
+  .img{
+    float: left;
+  }
+  h2{
+   color: aquamarine;
+  }
+  p{
+    font-size: 20px;
+
+  }
+  .f1{
+    color:aqua;
+  }
+  .button{
+    background-color:aqua;
+    font-size: 25px;
+    color:white;
+  }
+  .row{
+    background-color:bisque;
+     padding:20px;
+
+  }
